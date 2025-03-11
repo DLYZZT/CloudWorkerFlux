@@ -1,0 +1,10 @@
+name = "myfluxweb"
+main = "src/index.js"
+compatibility_date = "2023-12-01"
+
+# 全局变量设置
+[vars]
+# 这里可以设置默认变量
+
+# 开发环境变量
+[env.dev]
